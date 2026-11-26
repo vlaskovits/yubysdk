@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" role="img" aria-label="Yuby SDK">
+  <title>Yuby SDK</title>
+  <rect width="960" height="220" fill="#020903"/>
+  <defs>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#33ff66" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#33ff66" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="220" fill="url(#scan)"/>
+  <text x="480" y="92" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="64" font-weight="700" letter-spacing="14" fill="#33ff66">YUBY</text>
+  <text x="480" y="124" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3" fill="#2dbe52">LOWEST-LATENCY AUDIO ENGINE · C++ / JS / WASM</text>
+  <g fill="none" stroke="#33ff66" stroke-width="2" stroke-linecap="round" opacity="0.9">
+    <path d="M40 168 C 80 168, 90 148, 130 148 S 180 188, 220 168 S 280 128, 320 158 S 380 198, 440 168 S 500 118, 560 158 S 620 198, 680 168 S 740 138, 800 158 S 860 188, 920 168">
+      <animate attributeName="d" dur="2.4s" repeatCount="indefinite"
+        values="
+          M40 168 C 80 168, 90 148, 130 148 S 180 188, 220 168 S 280 128, 320 158 S 380 198, 440 168 S 500 118, 560 158 S 620 198, 680 168 S 740 138, 800 158 S 860 188, 920 168;
+          M40 168 C 80 168, 100 188, 130 168 S 180 128, 220 158 S 280 198, 320 168 S 380 138, 440 178 S 500 198, 560 148 S 620 118, 680 168 S 740 188, 800 148 S 860 128, 920 168;
+          M40 168 C 80 168, 90 148, 130 148 S 180 188, 220 168 S 280 128, 320 158 S 380 198, 440 168 S 500 118, 560 158 S 620 198, 680 168 S 740 138, 800 158 S 860 188, 920 168"/>
+    </path>
+  </g>
+</svg>
